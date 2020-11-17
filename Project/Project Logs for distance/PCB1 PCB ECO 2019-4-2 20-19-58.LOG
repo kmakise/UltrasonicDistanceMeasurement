@@ -1,0 +1,146 @@
+Removed Pin From Net: NetName=NetDS1_1 Pin=DS1-1
+Removed Pin From Net: NetName=NetDS1_2 Pin=DS1-2
+Removed Pin From Net: NetName=NetDS1_4 Pin=DS1-4
+Removed Pin From Net: NetName=NetDS1_1 Pin=DS1-6
+Removed Pin From Net: NetName=NetDS1_8 Pin=DS1-8
+Removed Pin From Net: NetName=NetDS1_9 Pin=DS1-9
+Removed Pin From Net: NetName=NetDS1_10 Pin=DS1-10
+Removed Pin From Net: NetName=NetDS2_1 Pin=DS2-1
+Removed Pin From Net: NetName=NetDS2_2 Pin=DS2-2
+Removed Pin From Net: NetName=NetDS2_4 Pin=DS2-4
+Removed Pin From Net: NetName=NetDS2_1 Pin=DS2-6
+Removed Pin From Net: NetName=NetDS2_8 Pin=DS2-8
+Removed Pin From Net: NetName=NetDS2_9 Pin=DS2-9
+Removed Pin From Net: NetName=NetDS2_10 Pin=DS2-10
+Removed Pin From Net: NetName=NetDS3_1 Pin=DS3-1
+Removed Pin From Net: NetName=NetDS3_2 Pin=DS3-2
+Removed Pin From Net: NetName=NetDS3_4 Pin=DS3-4
+Removed Pin From Net: NetName=NetDS3_1 Pin=DS3-6
+Removed Pin From Net: NetName=NetDS3_8 Pin=DS3-8
+Removed Pin From Net: NetName=NetDS3_9 Pin=DS3-9
+Removed Pin From Net: NetName=NetDS3_10 Pin=DS3-10
+Removed Pin From Net: NetName=NetDS1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetDS2_1 Pin=R2-1
+Removed Pin From Net: NetName=NetDS3_1 Pin=R3-1
+Removed Pin From Net: NetName=NetDS1_4 Pin=U5-9
+Removed Pin From Net: NetName=NetDS1_8 Pin=U5-11
+Removed Pin From Net: NetName=NetDS1_9 Pin=U5-12
+Removed Pin From Net: NetName=NetDS1_10 Pin=U5-13
+Removed Pin From Net: NetName=NetDS1_2 Pin=U5-15
+Removed Pin From Net: NetName=NetDS2_4 Pin=U6-9
+Removed Pin From Net: NetName=NetDS2_8 Pin=U6-11
+Removed Pin From Net: NetName=NetDS2_9 Pin=U6-12
+Removed Pin From Net: NetName=NetDS2_10 Pin=U6-13
+Removed Pin From Net: NetName=NetDS2_2 Pin=U6-15
+Removed Pin From Net: NetName=NetDS3_4 Pin=U7-9
+Removed Pin From Net: NetName=NetDS3_8 Pin=U7-11
+Removed Pin From Net: NetName=NetDS3_9 Pin=U7-12
+Removed Pin From Net: NetName=NetDS3_10 Pin=U7-13
+Removed Pin From Net: NetName=NetDS3_2 Pin=U7-15
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Component: Designator=DS1(0.56 一位共阳数码管)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DS2(0.56 一位共阳数码管)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DS3(0.56 一位共阳数码管)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetDS1_1 Pin=DS1-1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_4 Pin=DS1-4
+Added Pin To Net: NetName=NetDS1_8 Pin=DS1-8
+Added Pin To Net: NetName=NetDS1_9 Pin=DS1-9
+Added Pin To Net: NetName=NetDS1_10 Pin=DS1-10
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_4 Pin=DS2-4
+Added Pin To Net: NetName=NetDS2_8 Pin=DS2-8
+Added Pin To Net: NetName=NetDS2_9 Pin=DS2-9
+Added Pin To Net: NetName=NetDS2_10 Pin=DS2-10
+Added Pin To Net: NetName=NetDS3_1 Pin=DS3-1
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Pin To Net: NetName=NetDS3_4 Pin=DS3-4
+Added Pin To Net: NetName=NetDS3_8 Pin=DS3-8
+Added Pin To Net: NetName=NetDS3_9 Pin=DS3-9
+Added Pin To Net: NetName=NetDS3_10 Pin=DS3-10
+Added Pin To Net: NetName=NetDS2_8 Pin=R1-1
+Added Pin To Net: NetName=NetDS3_8 Pin=R2-1
+Added Pin To Net: NetName=NetDS1_8 Pin=R3-1
+Added Pin To Net: NetName=NetDS1_1 Pin=U5-9
+Added Pin To Net: NetName=NetDS1_2 Pin=U5-10
+Added Pin To Net: NetName=NetDS1_4 Pin=U5-11
+Added Pin To Net: NetName=NetDS1_10 Pin=U5-14
+Added Pin To Net: NetName=NetDS1_9 Pin=U5-15
+Added Pin To Net: NetName=NetDS2_1 Pin=U6-9
+Added Pin To Net: NetName=NetDS2_2 Pin=U6-10
+Added Pin To Net: NetName=NetDS2_4 Pin=U6-11
+Added Pin To Net: NetName=NetDS2_10 Pin=U6-14
+Added Pin To Net: NetName=NetDS2_9 Pin=U6-15
+Added Pin To Net: NetName=NetDS3_1 Pin=U7-9
+Added Pin To Net: NetName=NetDS3_2 Pin=U7-10
+Added Pin To Net: NetName=NetDS3_4 Pin=U7-11
+Added Pin To Net: NetName=NetDS3_10 Pin=U7-14
+Added Pin To Net: NetName=NetDS3_9 Pin=U7-15
+Added Pin To Net: NetName=NetDS1_6 Pin=DS1-6
+Added Pin To Net: NetName=NetDS1_6 Pin=U5-12
+Added Net: Name=NetDS1_6
+Added Pin To Net: NetName=NetDS1_7 Pin=DS1-7
+Added Pin To Net: NetName=NetDS1_7 Pin=U5-13
+Added Net: Name=NetDS1_7
+Added Pin To Net: NetName=NetDS2_6 Pin=DS2-6
+Added Pin To Net: NetName=NetDS2_6 Pin=U6-12
+Added Net: Name=NetDS2_6
+Added Pin To Net: NetName=NetDS2_7 Pin=DS2-7
+Added Pin To Net: NetName=NetDS2_7 Pin=U6-13
+Added Net: Name=NetDS2_7
+Added Pin To Net: NetName=NetDS3_6 Pin=DS3-6
+Added Pin To Net: NetName=NetDS3_6 Pin=U7-12
+Added Net: Name=NetDS3_6
+Added Pin To Net: NetName=NetDS3_7 Pin=DS3-7
+Added Pin To Net: NetName=NetDS3_7 Pin=U7-13
+Added Net: Name=NetDS3_7
+Added Member To Class: ClassName=distance Member=Component C1 Cap2
+Added Member To Class: ClassName=distance Member=Component C2 Cap2
+Added Member To Class: ClassName=distance Member=Component C3 Cap2
+Added Member To Class: ClassName=distance Member=Component C4 Cap2
+Added Member To Class: ClassName=distance Member=Component D1 Diode 1N4148
+Added Member To Class: ClassName=distance Member=Component DS1 0.56一位共阳数码管
+Added Member To Class: ClassName=distance Member=Component DS2 0.56一位共阳数码管
+Added Member To Class: ClassName=distance Member=Component DS3 0.56一位共阳数码管
+Added Member To Class: ClassName=distance Member=Component KG1 7*7自锁开关
+Added Member To Class: ClassName=distance Member=Component P1 Header 2
+Added Member To Class: ClassName=distance Member=Component P2 Header 5
+Added Member To Class: ClassName=distance Member=Component R1 RES
+Added Member To Class: ClassName=distance Member=Component R2 RES
+Added Member To Class: ClassName=distance Member=Component R3 RES
+Added Member To Class: ClassName=distance Member=Component R4 Res1
+Added Member To Class: ClassName=distance Member=Component R5 RPot
+Added Member To Class: ClassName=distance Member=Component R6 Res1
+Added Member To Class: ClassName=distance Member=Component R7 RPot
+Added Member To Class: ClassName=distance Member=Component R8 Res1
+Added Member To Class: ClassName=distance Member=Component R9 Res1
+Added Member To Class: ClassName=distance Member=Component R10 Res1
+Added Member To Class: ClassName=distance Member=Component R11 RPot
+Added Member To Class: ClassName=distance Member=Component R12 Res1
+Added Member To Class: ClassName=distance Member=Component T1 1 测试点
+Added Member To Class: ClassName=distance Member=Component T2 1 测试点
+Added Member To Class: ClassName=distance Member=Component T3 1 测试点
+Added Member To Class: ClassName=distance Member=Component T4 1 测试点
+Added Member To Class: ClassName=distance Member=Component T5 1 测试点
+Added Member To Class: ClassName=distance Member=Component T6 1 测试点
+Added Member To Class: ClassName=distance Member=Component U1 74LS08
+Added Member To Class: ClassName=distance Member=Component U2 74LS00
+Added Member To Class: ClassName=distance Member=Component U3 74LS160
+Added Member To Class: ClassName=distance Member=Component U4 74HC573
+Added Member To Class: ClassName=distance Member=Component U5 7446
+Added Member To Class: ClassName=distance Member=Component U6 7446
+Added Member To Class: ClassName=distance Member=Component U7 7446
+Added Member To Class: ClassName=distance Member=Component U8 74LS160
+Added Member To Class: ClassName=distance Member=Component U9 74HC573
+Added Member To Class: ClassName=distance Member=Component U10 74LS00
+Added Member To Class: ClassName=distance Member=Component U11 4017
+Added Member To Class: ClassName=distance Member=Component U12 74LS160
+Added Member To Class: ClassName=distance Member=Component U13 NE555
+Added Member To Class: ClassName=distance Member=Component U14 NE555
+Added Room: Name=distance

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ1_2
+Added Room: Name=distance

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Member To Class: ClassName=distance Member=Component Q1 NPN
+Added Room: Name=distance
